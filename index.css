@@ -1,0 +1,25 @@
+.fa{
+    color:blue;
+    
+}
+a{
+    /* text-decoration: underline; */
+    border-bottom: 2px solid blue;
+    
+}
+body{
+    background-color: #EEEEEE;
+}
+.box-part{
+    background-color: #ffff;
+    padding: 70px 10px;
+    margin: 20px 1px;
+}
+.text{
+    margin: 20px 0px;
+    font-size: small;
+    word-spacing: 1.5px;
+}
+.box{
+    padding: 70px 0px;
+}
